@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Welcome to my portfolio"
+title                    : "Ashray Shetty"
 title_separator          : "-"
 name                     : &name "Ashray Shetty"
-description              : &description "Ashray's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Software Engineer | Distributed Systems | Backend Engineering"
 url                      : https://ashrayshetty4.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Ashray Shetty"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Software Engineer with 3 years of experience building scalable backend and distributed systems."
   location         : "Stony Brook, NY, USA"
-  employer         : "Stony Brook University"
+  employer         : "M.S. Computer Science, Stony Brook University"
   uri              : # URL
   email            : "ashrayshetty09@gmail.com" 
 

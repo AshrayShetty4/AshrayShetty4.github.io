@@ -1,152 +1,188 @@
 {
   "basics": {
-    "name": "Ashray Shetty",
+    "name": "Ashray Ajit Shetty",
+    "label": "Software Engineer",
     "email": "ashrayshetty09@gmail.com",
-    "phone": "",
+    "phone": "+1 (934) 227-8965",
     "website": "https://ashrayshetty4.github.io",
-    "summary": "Currently pursuing my Masters at Stony Brook University",
+    "summary": "Software Engineer with 3 years of experience building scalable backend and distributed systems, with strong ownership across design, implementation, CI/CD, and production support.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Stony Brook",
       "countryCode": "US",
-      "region": ""
+      "region": "NY"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "ashrayshetty95",
+        "url": "https://linkedin.com/in/ashrayshetty95"
       },
       {
         "network": "GitHub",
         "username": "AshrayShetty4",
-        "url": "https://github.com/ashrayshetty4"
+        "url": "https://github.com/AshrayShetty4"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Vymo Technologies Pvt. Ltd.",
+      "position": "Software Development Engineer",
+      "website": "",
+      "startDate": "Jul 2022",
+      "endDate": "Aug 2025",
+      "summary": "Built and scaled backend services for high-volume financial workflows.",
+      "highlights": [
+        "Enhanced a high-throughput Java and Apache Kafka data dissemination service for chunked multimedia delivery to 900K+ leads.",
+        "Led end-to-end development of an external agent onboarding workflow with OTP authentication and bulk uploads, onboarding 500K+ users.",
+        "Developed a gamified leaderboard using Node.js and Elasticsearch, driving a 26% increase in engagement via real-time activity tracking.",
+        "Improved analytics latency by 53% by designing a ClickHouse-based metrics layer.",
+        "Served as on-call lead and reduced incident resolution time by 80% while mentoring engineers."
+      ]
+    },
+    {
+      "company": "Vymo Technologies Pvt. Ltd.",
+      "position": "Software Engineering Intern",
+      "website": "",
+      "startDate": "Jan 2022",
+      "endDate": "Jun 2022",
+      "summary": "Focused on security and release engineering improvements.",
+      "highlights": [
+        "Improved file upload security by 83% by integrating ClamAV to mitigate malware, EXIF, and XSS attacks.",
+        "Built the organization's first CI/CD pipeline for a distributed rule engine using Java, JUnit, and Cucumber."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Stony Brook University",
+      "area": "Master of Science in Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2025",
+      "endDate": "2027 (Expected)",
+      "gpa": "3.7/4.0",
+      "courses": [
+        "Distributed Systems",
+        "Database Systems",
+        "Natural Language Processing"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "PES University",
+      "area": "Bachelor of Technology in Computer Science",
+      "studyType": "B.Tech.",
+      "startDate": "2018",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Go",
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "C",
+        "C++",
+        "C#",
+        "SQL",
+        "Kotlin",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Backend and Systems",
+      "level": "",
+      "keywords": [
+        "Apache Kafka",
+        "REST APIs",
+        "ZooKeeper",
+        "gRPC",
+        "Paxos",
+        "PBFT",
+        "Two-Phase Commit"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "ClickHouse",
+        "Elasticsearch",
+        "Redis",
+        "MongoDB",
+        "PostgreSQL",
+        "BoltDB",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Cloud and DevOps",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "CI/CD",
+        "Git",
+        "Heroku",
+        "Ansible",
+        "Grafana",
+        "Prometheus"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "Django",
+        "Flask",
+        "React.js",
+        "AngularJS",
+        "Express.js",
+        "Spring MVC",
+        "Spring Boot",
+        "JUnit",
+        "Cucumber"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Sharded Distributed Banking System",
+      "category": "distributed systems",
+      "date": "2025",
+      "url": "https://github.com/AshrayShetty4/CSE535-2PC-Banking-System",
+      "description": "Built a sharded transactional system in Go using Multi-Paxos and Two-Phase Commit, with BoltDB persistence and dynamic shard rebalancing, sustaining 1000-1200 TPS."
+    },
+    {
+      "name": "POKeGAME",
+      "category": "desktop application",
+      "date": "2024",
+      "url": "https://github.com/AshrayShetty4/Bootleg-POKeGAME",
+      "description": "Created a C# WPF app that simulates Pokemon-style battles and uses AES encryption to securely save and load player progress."
+    },
+    {
+      "name": "Profanity Sir-Cuss",
+      "category": "data and NLP",
+      "date": "2024",
+      "url": "https://github.com/AshrayShetty4/Profanity-Sir-Cuss",
+      "description": "Built a Python web scraper using BeautifulSoup and lxml to generate a lyrics dataset for profanity analysis."
     }
   ]
 }
